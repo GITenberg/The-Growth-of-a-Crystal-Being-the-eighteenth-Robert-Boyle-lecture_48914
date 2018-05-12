@@ -1,10 +1,16 @@
 _repo: The-Growth-of-a-Crystal-Being-the-eighteenth-Robert-Boyle-lecture_48914
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48914-h/images/cover.jpg
 creator:
   author:
     agent_name: Miers, Henry A.
     gutenberg_agent_id: '45041'
     url: http://www.gutenberg.org/2009/agents/45041
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48914#The-Growth-of-a-Crystal-Being-the-eighteenth-Robert-Boyle-lecture
 gutenberg_issued: '2015-05-10'
 gutenberg_type: Text
 identifiers:
